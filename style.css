@@ -307,3 +307,9 @@ section {
 .about-pic {
     border-radius: 30px;
 }
+
+/* experience */
+
+#experience{
+    position: relative;
+}
